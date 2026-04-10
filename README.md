@@ -3,7 +3,7 @@
 Public repository for the Five Bells agent demo.
 
 This repository is intentionally small. Its purpose is to provide a stable
-GitHub target where an agent can open a pull request and the Five Bells demo can decide whether the task was delivered.
+GitHub repository where an agent can open a pull request and the Five Bells demo can decide whether the task was delivered.
 
 ## Demo Contract
 
