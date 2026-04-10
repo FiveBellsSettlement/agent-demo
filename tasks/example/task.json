@@ -1,0 +1,14 @@
+{
+  "task_id": "example-001",
+  "summary": "add a helper and tests",
+  "prompt": "Open a PR that adds a small helper function and tests.",
+  "base_branch": "main",
+  "head_branch": "task/example-001",
+  "pr_title_token": "[task:example-001]",
+  "required_checks": [
+    "lint",
+    "test"
+  ],
+  "deadline": "2026-04-11T18:00:00Z",
+  "payout_sats": 100000
+}
